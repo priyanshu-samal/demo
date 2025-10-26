@@ -12,6 +12,7 @@ export default function LandingPage() {
         <Link href="/auth/signup">
           Sign Up
         </Link>
+        <h1>Hello to website</h1>
       </div>
     </div>
   );
